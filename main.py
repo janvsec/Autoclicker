@@ -1,10 +1,10 @@
 """
-Main entry point for the autoclicker application
+Main entry point for the autoclicker
 """
 from gui import AutoclickerGUI
 
 def main():
-    """Main function to run the autoclicker"""
+    
     app = AutoclickerGUI()
     app.run()
 
